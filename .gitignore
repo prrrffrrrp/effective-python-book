@@ -1,0 +1,7 @@
+.ropeproject
+*/.ropeproject
+*/.ropeproject/*
+
+__pycache__
+*/__pycache__
+*/__pycache__/*
